@@ -1,6 +1,23 @@
-# test_app
+<h1 align="center">Personality Test App</h1>
 
-A new Flutter project.
+
+<p align="center">This is a sample Flutter App which is predicting personality of a person</p>
+<p align="center">by asking some pre-researched questions</p>
+
+
+<h2 align="center">A new Flutter project</h2>
+<p align="center">Here are some screenshots of the above App mentioned.</p>
+<p align="center">
+<img src="./img/app1.jpeg" width="400em">
+<img src="./img/app2.jpeg" width="400em">
+</p>
+<p align="center">
+<img src="./img/app3.jpeg" width="400em">
+<img src="./img/app4.jpeg" width="400em">
+</p>
+
+### About Internals...
+Advanced Concepts of Dart Programming language is used here like functional programming, classes, objects(Widgets), inheritance, stateful and stateless widgets, etc are used here.
 
 ## Getting Started
 
